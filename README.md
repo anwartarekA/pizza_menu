@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
+### `Technologies`
 <p align="center">
   <a href="https://react.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50" height="50" style="background:#20232a; padding:10px; border-radius:5px; display:inline-block; margin-right:10px;">
